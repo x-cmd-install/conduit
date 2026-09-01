@@ -1,0 +1,63 @@
+about:
+  description: Conduit streams data between data stores. Kafka Connect replacement. No JVM required.
+  license: Apache-2.0
+  homepage: https://conduit.io
+  head: 395e611
+  archived: false
+  latestVersion: v0.20.0-nightly.20260901
+  collectedAt: 2026-09-01T05:37:05Z
+timeline:
+  created: 2022-01-11
+  lastCommit: 2026-08-31
+  lastRelease: 2026-09-01
+popularity:
+  star: 608
+  watcher: 11
+  fork: 62
+  release: 43
+  contributor: 27
+  pullRequest: 299
+  issue: 658
+language:
+  Go: 6720620
+  Go Template: 47787
+  Shell: 18312
+  Makefile: 9855
+  HTML: 3449
+  JavaScript: 458
+  Dockerfile: 346
+  CSS: 202
+totalLine: 6801029
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 6
+    mergedPR: 68
+    openPR: 9
+    closedIssue: 8
+    openIssue: 7
+    commit: 53
+  last90d:
+    since: 2026-06-03
+    release: 13
+    mergedPR: 263
+    openPR: 9
+    closedIssue: 28
+    openIssue: 32
+    commit: 268
+  last180d:
+    since: 2026-03-05
+    release: 13
+    mergedPR: 280
+    openPR: 11
+    closedIssue: 28
+    openIssue: 32
+    commit: 282
+  last360d:
+    since: 2025-09-06
+    release: 13
+    mergedPR: 325
+    openPR: 12
+    closedIssue: 29
+    openIssue: 32
+    commit: 322
