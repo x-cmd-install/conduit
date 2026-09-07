@@ -2,13 +2,13 @@ about:
   description: "Conduit streams data between data stores. Kafka Connect replacement. No JVM required."
   license: Apache-2.0
   homepage: https://conduit.io
-  head: 104f91a
+  head: 4509623
   archived: false
   latestVersion: "v0.20.0-nightly.20260905"
-  collectedAt: 2026-09-07T05:15:07Z
+  collectedAt: 2026-09-07T19:11:11Z
 timeline:
   created: 2022-01-11
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
   star: 608
@@ -16,7 +16,7 @@ popularity:
   fork: 62
   release: 43
   contributor: 27
-  pullRequest: 2139
+  pullRequest: 2140
   issue: 661
 language:
   Go: 6767434
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 6
-    mergedPR: 59
+    mergedPR: 60
     openPR: 4
     closedIssue: 7
     openIssue: 9
-    commit: 56
+    commit: 57
   last60d:
     since: 2026-07-09
     release: 9
-    mergedPR: 199
+    mergedPR: 200
     openPR: 10
     closedIssue: 22
     openIssue: 21
-    commit: 180
+    commit: 181
   last90d:
     since: 2026-06-09
     release: 13
-    mergedPR: 274
+    mergedPR: 275
     openPR: 10
     closedIssue: 29
     openIssue: 34
-    commit: 279
+    commit: 280
   last180d:
     since: 2026-03-11
     release: 13
-    mergedPR: 288
+    mergedPR: 289
     openPR: 12
     closedIssue: 29
     openIssue: 34
-    commit: 292
+    commit: 293
   last360d:
     since: 2025-09-12
     release: 13
-    mergedPR: 331
+    mergedPR: 332
     openPR: 13
     closedIssue: 30
     openIssue: 34
-    commit: 332
+    commit: 333
   last720d:
     since: 2024-09-17
     release: 25
-    mergedPR: 695
+    mergedPR: 696
     openPR: 17
     closedIssue: 131
     openIssue: 50
-    commit: 692
+    commit: 693
 total:
   release: 43
-  mergedPR: 1838
+  mergedPR: 1839
   openPR: 17
   closedIssue: 558
   openIssue: 103
-  commit: 1792
+  commit: 1793
 ---
 path: /home/runner/.x-repo/github.com/ConduitIO/conduit
-collectedAt: 2026-09-07T05:15:10Z
+collectedAt: 2026-09-07T19:11:21Z
 loc:
   Go:
     code: 135309
@@ -167,7 +167,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:15:11+00:00
+  collectedAt: 2026-09-07T19:11:27+00:00
   platform:
     darwin/arm64:
       name:  conduit_0.19.0_Darwin_arm64.tar.gz
