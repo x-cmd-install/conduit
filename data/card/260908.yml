@@ -5,7 +5,7 @@ about:
   head: 4509623
   archived: false
   latestVersion: "v0.20.0-nightly.20260908"
-  collectedAt: 2026-09-08T02:27:50Z
+  collectedAt: 2026-09-08T05:14:04Z
 timeline:
   created: 2022-01-11
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 1793
 ---
 path: /home/runner/.x-repo/github.com/ConduitIO/conduit
-collectedAt: 2026-09-08T02:27:53Z
+collectedAt: 2026-09-08T05:14:09Z
 loc:
   Go:
     code: 135309
