@@ -4,10 +4,10 @@ Conduit streams data between data stores. Kafka Connect replacement. No JVM requ
 
 - **Upstream**: <https://github.com/ConduitIO/conduit>
 - **Homepage**: <https://conduit.io>
-- **Latest release**: `v0.20.0-nightly.20260908` (2026-07-24)
+- **Latest release**: `v0.20.0-nightly.20260909` (2026-07-24)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 608 · **Forks**: 62 · **Open issues**: 661 · **Contributors**: 27
+- **Stars**: 609 · **Forks**: 62 · **Open issues**: 662 · **Contributors**: 27
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/conduit> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:36:40Z._
+_Last regenerated: 2026-09-09T05:20:18Z._
