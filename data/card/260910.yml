@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.20.0-nightly.20260910"
   latestRelease: "v0.19.0"
   latestPrerelease: "v0.20.0-nightly.20260910"
-  collectedAt: 2026-09-10T05:27:45Z
+  collectedAt: 2026-09-10T17:25:50Z
 timeline:
   created: 2022-01-11
   lastCommit: 2026-09-08
@@ -90,7 +90,7 @@ total:
   commit: 1796
 ---
 path: /home/runner/.x-repo/github.com/ConduitIO/conduit
-collectedAt: 2026-09-10T05:27:49Z
+collectedAt: 2026-09-10T17:25:54Z
 loc:
   Go:
     code: 135309
