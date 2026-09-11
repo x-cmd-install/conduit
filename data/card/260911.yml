@@ -4,16 +4,16 @@ about:
   homepage: https://conduit.io
   head: 808172c
   archived: false
-  latestVersion: "v0.20.0-nightly.20260910"
+  latestVersion: "v0.20.0-nightly.20260911"
   latestRelease: "v0.19.0"
-  latestPrerelease: "v0.20.0-nightly.20260910"
-  collectedAt: 2026-09-11T00:00:54Z
+  latestPrerelease: "v0.20.0-nightly.20260911"
+  collectedAt: 2026-09-11T05:17:56Z
 timeline:
   created: 2022-01-11
   lastCommit: 2026-09-08
-  lastVersion: 2026-09-10
+  lastVersion: 2026-09-11
   lastRelease: 2026-07-24
-  lastPrerelease: 2026-09-10
+  lastPrerelease: 2026-09-11
 popularity:
   star: 609
   watcher: 11
@@ -90,7 +90,7 @@ total:
   commit: 1796
 ---
 path: /home/runner/.x-repo/github.com/ConduitIO/conduit
-collectedAt: 2026-09-11T00:00:59Z
+collectedAt: 2026-09-11T05:18:00Z
 loc:
   Go:
     code: 135309
