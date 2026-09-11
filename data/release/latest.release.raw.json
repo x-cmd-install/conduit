@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 24953242,
       "digest": "sha256:3e26ead9fd3d890dd55f7743632f9cf3ff7fd065c28fbebb47789525a914264b",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-07-24T20:52:44Z",
       "updated_at": "2026-07-24T20:52:46Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_x86_64.tar.gz"
