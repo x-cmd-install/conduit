@@ -32,7 +32,7 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.20.0-nightly.20260910` (2026-07-24)
+- **Latest**: `v0.20.0-nightly.20260911` (2026-07-24)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 14
 
@@ -83,4 +83,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:01:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:18:09Z._
