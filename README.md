@@ -32,7 +32,7 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.20.0-nightly.20260911` (2026-07-24)
+- **Latest**: `v0.20.0-nightly.20260912` (2026-07-24)
 - **Last commit**: 2026-09-11
 - **Assets in release**: 14
 
@@ -48,12 +48,12 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 6 | 59 | 5 | 7 | 10 | 0 |
-| last60d | 2026-07-13 | 9 | 187 | 11 | 22 | 15 | 0 |
-| 90d | 2026-06-13 | 13 | 279 | 11 | 29 | 35 | 0 |
-| last180d | 2026-03-15 | 13 | 292 | 13 | 29 | 35 | 0 |
-| 360d | 2025-09-16 | 13 | 335 | 14 | 30 | 35 | 0 |
-| last720d | 2024-09-21 | 25 | 697 | 18 | 130 | 51 | 692 |
+| 30d | 2026-08-13 | 6 | 59 | 5 | 7 | 10 | 61 |
+| last60d | 2026-07-14 | 8 | 182 | 11 | 21 | 13 | 185 |
+| 90d | 2026-06-14 | 13 | 279 | 11 | 29 | 35 | 284 |
+| last180d | 2026-03-16 | 13 | 292 | 13 | 29 | 35 | 297 |
+| 360d | 2025-09-17 | 13 | 335 | 14 | 30 | 35 | 337 |
+| last720d | 2024-09-22 | 25 | 697 | 18 | 130 | 51 | 692 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:37:38Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:10:59Z._
