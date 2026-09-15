@@ -32,8 +32,8 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.20.0-nightly.20260912` (2026-07-24)
-- **Last commit**: 2026-09-11
+- **Latest**: `v0.20.0-nightly.20260915` (2026-07-24)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 14
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1843 · **Open PRs**: 18 · **Closed issues**: 558 · **Open issues**: 104 · **Commits**: 1797
+- **Releases**: 43 · **Merged PRs**: 1844 · **Open PRs**: 19 · **Closed issues**: 558 · **Open issues**: 104 · **Commits**: 1798
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 6 | 56 | 5 | 7 | 10 | 50 |
-| last60d | 2026-07-16 | 8 | 177 | 11 | 21 | 13 | 180 |
-| 90d | 2026-06-16 | 13 | 278 | 11 | 29 | 35 | 283 |
-| last180d | 2026-03-18 | 13 | 291 | 13 | 29 | 35 | 295 |
-| 360d | 2025-09-19 | 13 | 335 | 14 | 30 | 35 | 337 |
-| last720d | 2024-09-24 | 25 | 697 | 18 | 130 | 51 | 692 |
+| 30d | 2026-08-16 | 6 | 57 | 6 | 7 | 10 | 51 |
+| last60d | 2026-07-17 | 8 | 178 | 12 | 21 | 13 | 181 |
+| 90d | 2026-06-17 | 13 | 279 | 12 | 29 | 35 | 284 |
+| last180d | 2026-03-19 | 13 | 292 | 14 | 29 | 35 | 296 |
+| 360d | 2025-09-20 | 13 | 336 | 15 | 30 | 35 | 338 |
+| last720d | 2024-09-25 | 25 | 698 | 19 | 130 | 51 | 693 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:36:21Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:51:28Z._
