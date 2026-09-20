@@ -4,7 +4,7 @@
 
 Conduit streams data between data stores. Kafka Connect replacement. No JVM required.
 
-![conduit](https://repo.x-cmd.io/conduit.svg?lang=zh)
+[![x-cmd/install — conduit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conduit.svg?lang=zh)](https://x-cmd.com/install/conduit)
 
 ## 安装
 
@@ -32,8 +32,8 @@ x install conduit
 
 ## 发布
 
-- **最新版本**: `v0.20.0-nightly.20260918` (2026-07-24)
-- **最近提交**: 2026-09-17
+- **最新版本**: `v0.20.0-nightly.20260919` (2026-07-24)
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 14 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install conduit
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 1847 · **开放 PR**: 19 · **已关闭 issue**: 558 · **开放 issue**: 104 · **提交数**: 1801
+- **发布数**: 43 · **已合并 PR**: 1848 · **开放 PR**: 19 · **已关闭 issue**: 558 · **开放 issue**: 104 · **提交数**: 1802
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 53 | 6 | 7 | 10 | 54 |
-| last60d | 2026-07-20 | 8 | 181 | 12 | 21 | 13 | 184 |
-| 90d | 2026-06-20 | 13 | 281 | 12 | 29 | 35 | 287 |
-| last180d | 2026-03-22 | 13 | 295 | 14 | 29 | 35 | 299 |
-| 360d | 2025-09-23 | 13 | 338 | 15 | 30 | 35 | 341 |
-| last720d | 2024-09-28 | 25 | 701 | 19 | 130 | 51 | 696 |
+| 30d | 2026-08-21 | 6 | 38 | 6 | 4 | 5 | 29 |
+| last60d | 2026-07-22 | 8 | 161 | 12 | 21 | 12 | 131 |
+| 90d | 2026-06-22 | 13 | 282 | 12 | 29 | 35 | 288 |
+| last180d | 2026-03-24 | 13 | 295 | 14 | 29 | 35 | 299 |
+| 360d | 2025-09-25 | 13 | 339 | 15 | 30 | 35 | 342 |
+| last720d | 2024-09-30 | 25 | 701 | 19 | 130 | 51 | 697 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ conduit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:32:27Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:49:47Z._
