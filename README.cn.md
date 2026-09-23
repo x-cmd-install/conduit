@@ -4,7 +4,7 @@
 
 Conduit streams data between data stores. Kafka Connect replacement. No JVM required.
 
-[![x-cmd/install — conduit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conduit.svg?lang=zh)](https://x-cmd.com/install/conduit)
+[![x-cmd/install — conduit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/conduit.svg?lang=zh)](https://x-cmd.com/install/conduit)
 
 ## 安装
 
@@ -32,8 +32,8 @@ x install conduit
 
 ## 发布
 
-- **最新版本**: `v0.20.0-nightly.20260922` (2026-07-24)
-- **最近提交**: 2026-09-21
+- **最新版本**: `v0.20.0-nightly.20260923` (2026-07-24)
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 14 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install conduit
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 1849 · **开放 PR**: 19 · **已关闭 issue**: 558 · **开放 issue**: 104 · **提交数**: 1803
+- **发布数**: 43 · **已合并 PR**: 1850 · **开放 PR**: 19 · **已关闭 issue**: 558 · **开放 issue**: 104 · **提交数**: 1804
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 35 | 5 | 4 | 3 | 30 |
-| last60d | 2026-07-24 | 7 | 138 | 12 | 19 | 10 | 132 |
-| 90d | 2026-06-24 | 13 | 283 | 12 | 29 | 35 | 289 |
-| last180d | 2026-03-26 | 13 | 296 | 14 | 29 | 35 | 300 |
-| 360d | 2025-09-27 | 13 | 340 | 15 | 30 | 35 | 343 |
-| last720d | 2024-10-02 | 25 | 697 | 19 | 130 | 50 | 695 |
+| 30d | 2026-08-24 | 6 | 34 | 4 | 4 | 3 | 0 |
+| last60d | 2026-07-25 | 6 | 138 | 12 | 19 | 10 | 0 |
+| 90d | 2026-06-25 | 13 | 284 | 12 | 29 | 35 | 0 |
+| last180d | 2026-03-27 | 13 | 297 | 14 | 29 | 35 | 0 |
+| 360d | 2025-09-28 | 13 | 341 | 15 | 30 | 35 | 0 |
+| last720d | 2024-10-03 | 25 | 697 | 19 | 130 | 50 | 694 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ conduit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:36:27Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:38:46Z._
