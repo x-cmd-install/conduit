@@ -32,7 +32,7 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.20.0-nightly.20260923` (2026-07-24)
+- **Latest**: `v0.20.0-nightly.20260924` (2026-07-24)
 - **Last commit**: 2026-09-22
 - **Assets in release**: 14
 
@@ -42,18 +42,18 @@ Total: **149,686** lines of code across **1131** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1850 · **Open PRs**: 19 · **Closed issues**: 558 · **Open issues**: 104 · **Commits**: 1804
+- **Releases**: 43 · **Merged PRs**: 1850 · **Open PRs**: 20 · **Closed issues**: 558 · **Open issues**: 104 · **Commits**: 1804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 6 | 34 | 4 | 4 | 3 | 0 |
-| last60d | 2026-07-25 | 6 | 138 | 12 | 19 | 10 | 0 |
-| 90d | 2026-06-25 | 13 | 284 | 12 | 29 | 35 | 0 |
-| last180d | 2026-03-27 | 13 | 297 | 14 | 29 | 35 | 0 |
-| 360d | 2025-09-28 | 13 | 341 | 15 | 30 | 35 | 0 |
-| last720d | 2024-10-03 | 25 | 697 | 19 | 130 | 50 | 694 |
+| 30d | 2026-08-25 | 6 | 29 | 5 | 2 | 3 | 31 |
+| last60d | 2026-07-26 | 6 | 131 | 13 | 19 | 10 | 133 |
+| 90d | 2026-06-26 | 13 | 284 | 13 | 29 | 35 | 290 |
+| last180d | 2026-03-28 | 13 | 297 | 15 | 29 | 35 | 301 |
+| 360d | 2025-09-29 | 13 | 340 | 16 | 29 | 35 | 344 |
+| last720d | 2024-10-04 | 25 | 694 | 20 | 128 | 50 | 694 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:38:45Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:25:09Z._
