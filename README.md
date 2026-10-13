@@ -14,15 +14,15 @@ x install conduit
 
 ## Code insight
 
-Total: **153,004** lines of code across **1147** files in the top 5 languages.
+Total: **165,109** lines of code across **1223** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 138,622 | 52,429 | 24,908 | 994 |
-| Json | 10,169 | 0 | 12 | 41 |
-| Yaml | 2,489 | 409 | 84 | 92 |
-| Protobuf | 987 | 163 | 112 | 1 |
-| Sh | 403 | 226 | 108 | 19 |
+| Go | 150,613 | 56,675 | 26,693 | 1065 |
+| Json | 10,211 | 0 | 12 | 45 |
+| Yaml | 2,494 | 418 | 84 | 92 |
+| Protobuf | 987 | 209 | 112 | 1 |
+| Sh | 456 | 247 | 115 | 20 |
 
 ## Source
 
@@ -32,47 +32,55 @@ Total: **153,004** lines of code across **1147** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.20.0-nightly.20261010` (2026-07-24)
-- **Last commit**: 2026-10-09
-- **Assets in release**: 14
+- **Latest**: `v0.21.0-nightly.20261013` (2026-10-12)
+- **Last commit**: 2026-10-13
+- **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 614 · **Forks**: 66 · **Open issues**: 706 · **Contributors**: 27
+- **Stars**: 614 · **Forks**: 66 · **Open issues**: 746 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1872 · **Open PRs**: 51 · **Closed issues**: 565 · **Open issues**: 141 · **Commits**: 1826
+- **Releases**: 44 · **Merged PRs**: 1909 · **Open PRs**: 44 · **Closed issues**: 581 · **Open issues**: 165 · **Commits**: 1861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 6 | 29 | 36 | 3 | 41 | 25 |
-| last60d | 2026-08-13 | 6 | 88 | 39 | 13 | 48 | 80 |
-| 90d | 2026-07-14 | 8 | 211 | 44 | 28 | 50 | 212 |
-| last180d | 2026-04-15 | 13 | 315 | 44 | 36 | 72 | 319 |
-| 360d | 2025-10-17 | 13 | 357 | 46 | 36 | 72 | 360 |
-| last720d | 2024-10-22 | 23 | 685 | 51 | 128 | 85 | 683 |
+| 30d | 2026-09-13 | 7 | 66 | 29 | 19 | 65 | 60 |
+| last60d | 2026-08-14 | 7 | 122 | 32 | 29 | 72 | 115 |
+| 90d | 2026-07-15 | 9 | 245 | 37 | 44 | 74 | 247 |
+| last180d | 2026-04-16 | 14 | 352 | 37 | 52 | 96 | 354 |
+| 360d | 2025-10-18 | 14 | 394 | 39 | 52 | 96 | 395 |
+| last720d | 2024-10-23 | 24 | 722 | 44 | 143 | 109 | 717 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/checksums.txt) | 1.3 KiB | `other` |
-| [conduit_0.19.0_Darwin_arm64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Darwin_arm64.tar.gz) | 22.9 MiB | `native/darwin/arm64` |
-| [conduit_0.19.0_Darwin_x86_64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Darwin_x86_64.tar.gz) | 24.2 MiB | `native/darwin/x64` |
-| [conduit_0.19.0_Linux_arm64.deb](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_arm64.deb) | 21.9 MiB | `native/linux/arm64` |
-| [conduit_0.19.0_Linux_arm64.rpm](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_arm64.rpm) | 21.8 MiB | `native/linux/arm64` |
-| [conduit_0.19.0_Linux_arm64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_arm64.tar.gz) | 21.9 MiB | `native/linux/arm64` |
-| [conduit_0.19.0_Linux_i386.deb](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_i386.deb) | 22.1 MiB | `native/linux/x86` |
-| [conduit_0.19.0_Linux_i386.rpm](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_i386.rpm) | 22.0 MiB | `native/linux/x86` |
-| [conduit_0.19.0_Linux_i386.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_i386.tar.gz) | 22.1 MiB | `native/linux/x86` |
-| [conduit_0.19.0_Linux_x86_64.deb](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_x86_64.deb) | 23.8 MiB | `native/linux/x64` |
-| [conduit_0.19.0_Linux_x86_64.rpm](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_x86_64.rpm) | 23.7 MiB | `native/linux/x64` |
-| [conduit_0.19.0_Linux_x86_64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Linux_x86_64.tar.gz) | 23.8 MiB | `native/linux/x64` |
-| [conduit_0.19.0_Windows_arm64.zip](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Windows_arm64.zip) | 22.0 MiB | `native/win/arm64` |
-| [conduit_0.19.0_Windows_x86_64.zip](https://github.com/ConduitIO/conduit/releases/download/v0.19.0/conduit_0.19.0_Windows_x86_64.zip) | 24.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/checksums.txt) | 2.0 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
+| [conduit_0.20.0_Darwin_arm64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Darwin_arm64.tar.gz) | 23.6 MiB | `native/darwin/arm64` |
+| [conduit_0.20.0_Darwin_arm64.tar.gz.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Darwin_arm64.tar.gz.sbom.json) | 334.1 KiB | `native/darwin/arm64` |
+| [conduit_0.20.0_Darwin_x86_64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Darwin_x86_64.tar.gz) | 25.1 MiB | `native/darwin/x64` |
+| [conduit_0.20.0_Darwin_x86_64.tar.gz.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Darwin_x86_64.tar.gz.sbom.json) | 334.3 KiB | `native/darwin/x64` |
+| [conduit_0.20.0_Linux_arm64.deb](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_arm64.deb) | 22.5 MiB | `native/linux/arm64` |
+| [conduit_0.20.0_Linux_arm64.rpm](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_arm64.rpm) | 22.5 MiB | `native/linux/arm64` |
+| [conduit_0.20.0_Linux_arm64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_arm64.tar.gz) | 22.6 MiB | `native/linux/arm64` |
+| [conduit_0.20.0_Linux_arm64.tar.gz.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_arm64.tar.gz.sbom.json) | 333.7 KiB | `native/linux/arm64` |
+| [conduit_0.20.0_Linux_i386.deb](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_i386.deb) | 22.8 MiB | `native/linux/x86` |
+| [conduit_0.20.0_Linux_i386.rpm](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_i386.rpm) | 22.9 MiB | `native/linux/x86` |
+| [conduit_0.20.0_Linux_i386.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_i386.tar.gz) | 22.9 MiB | `native/linux/x86` |
+| [conduit_0.20.0_Linux_i386.tar.gz.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_i386.tar.gz.sbom.json) | 333.5 KiB | `native/linux/x86` |
+| [conduit_0.20.0_Linux_x86_64.deb](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_x86_64.deb) | 24.6 MiB | `native/linux/x64` |
+| [conduit_0.20.0_Linux_x86_64.rpm](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_x86_64.rpm) | 24.6 MiB | `native/linux/x64` |
+| [conduit_0.20.0_Linux_x86_64.tar.gz](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_x86_64.tar.gz) | 24.6 MiB | `native/linux/x64` |
+| [conduit_0.20.0_Linux_x86_64.tar.gz.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_x86_64.tar.gz.sbom.json) | 333.9 KiB | `native/linux/x64` |
+| [conduit_0.20.0_Windows_arm64.zip](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Windows_arm64.zip) | 22.7 MiB | `native/win/arm64` |
+| [conduit_0.20.0_Windows_arm64.zip.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Windows_arm64.zip.sbom.json) | 337.7 KiB | `native/win/arm64` |
+| [conduit_0.20.0_Windows_x86_64.zip](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Windows_x86_64.zip) | 25.1 MiB | `native/win/x64` |
+| [conduit_0.20.0_Windows_x86_64.zip.sbom.json](https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Windows_x86_64.zip.sbom.json) | 337.9 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -83,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:41:51Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:01Z._
