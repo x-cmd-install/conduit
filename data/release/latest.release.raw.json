@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2056,
       "digest": "sha256:458ee0a6b69609ead7e026ceed08fbbd24fd4480648b0da04b63cf558c5653a8",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-12T17:45:42Z",
       "updated_at": "2026-10-12T17:45:42Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 24750605,
       "digest": "sha256:209ab082b33bcf2e4e5c7e7f0a113089889fe396ed92731671dbdbbd3cf971d2",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-10-12T17:45:36Z",
       "updated_at": "2026-10-12T17:45:38Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Darwin_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 25813559,
       "digest": "sha256:247bb111e9817ab720fa49bda93774bd9b3b19e604318264f96d154a4fa8d270",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-12T17:45:36Z",
       "updated_at": "2026-10-12T17:45:38Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Linux_x86_64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 23769361,
       "digest": "sha256:1c98a907e734bef5a7117d5659e1182e3c2cf6f97a2c82afbd9d197e47db56d7",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-12T17:45:35Z",
       "updated_at": "2026-10-12T17:45:36Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Windows_arm64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 26347729,
       "digest": "sha256:7a7919aef873fb1b1b44d174247a837bde50ccf59340f64296c4c9918c03827a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-12T17:45:35Z",
       "updated_at": "2026-10-12T17:45:37Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.0/conduit_0.20.0_Windows_x86_64.zip"
