@@ -14,15 +14,15 @@ x install conduit
 
 ## Code insight
 
-Total: **165,147** lines of code across **1224** files in the top 5 languages.
+Total: **166,898** lines of code across **1230** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 150,651 | 56,693 | 26,697 | 1066 |
-| Json | 10,211 | 0 | 12 | 45 |
-| Yaml | 2,494 | 418 | 84 | 92 |
+| Go | 151,245 | 56,917 | 26,756 | 1067 |
+| Json | 11,207 | 0 | 13 | 47 |
+| Yaml | 2,538 | 433 | 86 | 94 |
 | Protobuf | 987 | 209 | 112 | 1 |
-| Sh | 456 | 247 | 115 | 20 |
+| Sh | 494 | 255 | 127 | 21 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **165,147** lines of code across **1224** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.21.0-nightly.20261014` (2026-10-12)
-- **Last commit**: 2026-10-13
+- **Latest**: `v0.21.0-nightly.20261015` (2026-10-12)
+- **Last commit**: 2026-10-15
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 614 · **Forks**: 66 · **Open issues**: 746 · **Contributors**: 27
+- **Stars**: 614 · **Forks**: 66 · **Open issues**: 749 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 1911 · **Open PRs**: 43 · **Closed issues**: 581 · **Open issues**: 165 · **Commits**: 1862
+- **Releases**: 44 · **Merged PRs**: 1929 · **Open PRs**: 51 · **Closed issues**: 584 · **Open issues**: 165 · **Commits**: 1879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 7 | 67 | 28 | 19 | 65 | 61 |
-| last60d | 2026-08-15 | 7 | 124 | 31 | 29 | 72 | 116 |
-| 90d | 2026-07-16 | 9 | 245 | 36 | 44 | 74 | 248 |
-| last180d | 2026-04-17 | 14 | 353 | 36 | 52 | 96 | 355 |
-| 360d | 2025-10-19 | 14 | 396 | 38 | 52 | 96 | 396 |
-| last720d | 2024-10-24 | 24 | 722 | 43 | 142 | 109 | 718 |
+| 30d | 2026-09-15 | 7 | 84 | 36 | 22 | 65 | 78 |
+| last60d | 2026-08-16 | 7 | 142 | 39 | 32 | 72 | 133 |
+| 90d | 2026-07-17 | 9 | 263 | 44 | 47 | 74 | 265 |
+| last180d | 2026-04-18 | 14 | 371 | 44 | 55 | 96 | 372 |
+| 360d | 2025-10-20 | 14 | 414 | 46 | 55 | 96 | 413 |
+| last720d | 2024-10-25 | 24 | 737 | 51 | 145 | 109 | 734 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:26:25Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:09:21Z._
