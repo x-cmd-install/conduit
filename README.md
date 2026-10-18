@@ -14,13 +14,13 @@ x install conduit
 
 ## Code insight
 
-Total: **190,274** lines of code across **1419** files in the top 5 languages.
+Total: **196,503** lines of code across **1460** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 167,308 | 60,831 | 28,323 | 1178 |
-| Json | 15,365 | 0 | 13 | 82 |
-| Yaml | 5,377 | 589 | 92 | 136 |
+| Go | 171,260 | 61,836 | 28,888 | 1209 |
+| Json | 16,536 | 0 | 13 | 87 |
+| Yaml | 6,385 | 614 | 99 | 141 |
 | Protobuf | 987 | 209 | 112 | 1 |
 | Sh | 614 | 279 | 146 | 22 |
 
@@ -42,18 +42,18 @@ Total: **190,274** lines of code across **1419** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1991 · **Open PRs**: 65 · **Closed issues**: 595 · **Open issues**: 179 · **Commits**: 1931
+- **Releases**: 48 · **Merged PRs**: 2009 · **Open PRs**: 61 · **Closed issues**: 598 · **Open issues**: 176 · **Commits**: 1949
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 11 | 144 | 50 | 33 | 79 | 0 |
-| last60d | 2026-08-18 | 11 | 198 | 53 | 43 | 86 | 0 |
-| 90d | 2026-07-19 | 13 | 325 | 58 | 58 | 88 | 0 |
-| last180d | 2026-04-20 | 18 | 433 | 58 | 66 | 110 | 0 |
-| 360d | 2025-10-22 | 18 | 475 | 60 | 66 | 110 | 0 |
-| last720d | 2024-10-27 | 28 | 799 | 65 | 156 | 123 | 784 |
+| 30d | 2026-09-18 | 11 | 161 | 46 | 36 | 76 | 145 |
+| last60d | 2026-08-19 | 11 | 215 | 49 | 46 | 83 | 177 |
+| 90d | 2026-07-20 | 13 | 343 | 54 | 61 | 85 | 285 |
+| last180d | 2026-04-21 | 18 | 450 | 54 | 69 | 107 | 440 |
+| 360d | 2025-10-23 | 18 | 493 | 56 | 69 | 107 | 482 |
+| last720d | 2024-10-28 | 28 | 816 | 61 | 159 | 120 | 802 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:52:55Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:57:19Z._
