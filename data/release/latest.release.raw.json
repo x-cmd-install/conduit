@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 26180515,
       "digest": "sha256:a59cc73bcd49efbb82e12d7b53cc7007619aee2acd0deec8679ab1fa5ddb6f85",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-16T03:21:35Z",
       "updated_at": "2026-10-16T03:21:37Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.4/conduit_0.20.4_Linux_x86_64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 24100335,
       "digest": "sha256:73cb16306932ca775f95da581854c25de7a0246f28b228aa1895d0c470b7f622",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-16T03:21:35Z",
       "updated_at": "2026-10-16T03:21:37Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.4/conduit_0.20.4_Windows_arm64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 26717719,
       "digest": "sha256:59c35154cfebcb47f9cfc04cde5b88d4289c55b1de5f5450c925998e4132068c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-16T03:21:37Z",
       "updated_at": "2026-10-16T03:21:39Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.4/conduit_0.20.4_Windows_x86_64.zip"
