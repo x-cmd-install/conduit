@@ -14,11 +14,11 @@ x install conduit
 
 ## Code insight
 
-Total: **209,143** lines of code across **1569** files in the top 5 languages.
+Total: **210,444** lines of code across **1590** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 180,659 | 65,193 | 30,119 | 1278 |
+| Go | 181,960 | 65,628 | 30,302 | 1299 |
 | Json | 17,755 | 0 | 13 | 95 |
 | Yaml | 7,611 | 1,138 | 169 | 169 |
 | Sh | 1,157 | 471 | 201 | 26 |
@@ -42,18 +42,18 @@ Total: **209,143** lines of code across **1569** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 2086 · **Open PRs**: 45 · **Closed issues**: 613 · **Open issues**: 168 · **Commits**: 2021
+- **Releases**: 49 · **Merged PRs**: 2095 · **Open PRs**: 39 · **Closed issues**: 613 · **Open issues**: 168 · **Commits**: 2029
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 12 | 236 | 30 | 51 | 68 | 217 |
-| last60d | 2026-08-25 | 12 | 265 | 32 | 54 | 70 | 249 |
-| 90d | 2026-07-26 | 12 | 367 | 38 | 73 | 75 | 357 |
-| last180d | 2026-04-27 | 19 | 526 | 38 | 84 | 99 | 512 |
-| 360d | 2025-10-29 | 19 | 569 | 40 | 84 | 99 | 554 |
-| last720d | 2024-11-03 | 29 | 890 | 45 | 174 | 111 | 870 |
+| 30d | 2026-09-25 | 12 | 245 | 24 | 51 | 68 | 225 |
+| last60d | 2026-08-26 | 12 | 274 | 26 | 54 | 70 | 247 |
+| 90d | 2026-07-27 | 12 | 369 | 32 | 73 | 75 | 317 |
+| last180d | 2026-04-28 | 19 | 535 | 32 | 84 | 99 | 517 |
+| 360d | 2025-10-30 | 19 | 578 | 34 | 84 | 99 | 562 |
+| last720d | 2024-11-04 | 29 | 898 | 39 | 174 | 110 | 878 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:19:53Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:05:55Z._
