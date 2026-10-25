@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25132187,
       "digest": "sha256:6f7b754d0d796245db5bc26a6f0e429ed2c212cbcf897d52c5540aa286192ab0",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-20T04:39:16Z",
       "updated_at": "2026-10-20T04:39:18Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.5/conduit_0.20.5_Darwin_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 26201121,
       "digest": "sha256:fc04c760cdde355dd536207235ee03f06e404d5bf39af25a4e137f626e84e8f8",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-20T04:39:16Z",
       "updated_at": "2026-10-20T04:39:18Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.20.5/conduit_0.20.5_Linux_x86_64.tar.gz"
