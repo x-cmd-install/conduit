@@ -48,12 +48,12 @@ Total: **222,691** lines of code across **1682** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 15 | 264 | 27 | 52 | 66 | 286 |
-| last60d | 2026-09-01 | 15 | 285 | 28 | 54 | 69 | 308 |
-| 90d | 2026-08-02 | 15 | 355 | 34 | 64 | 74 | 378 |
-| last180d | 2026-05-04 | 22 | 551 | 34 | 85 | 98 | 578 |
-| 360d | 2025-11-05 | 22 | 597 | 36 | 85 | 98 | 623 |
-| last720d | 2024-11-10 | 31 | 899 | 41 | 172 | 108 | 924 |
+| 30d | 2026-10-02 | 15 | 264 | 27 | 52 | 66 | 265 |
+| last60d | 2026-09-02 | 15 | 284 | 28 | 54 | 69 | 294 |
+| 90d | 2026-08-03 | 15 | 348 | 29 | 64 | 74 | 359 |
+| last180d | 2026-05-05 | 22 | 551 | 34 | 85 | 98 | 578 |
+| 360d | 2025-11-06 | 22 | 596 | 36 | 85 | 98 | 620 |
+| last720d | 2024-11-11 | 31 | 898 | 41 | 172 | 108 | 924 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:14:16Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:35:17Z._
