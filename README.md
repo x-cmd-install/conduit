@@ -32,7 +32,7 @@ Total: **227,472** lines of code across **1703** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.22.0-nightly.20261104` (2026-10-27)
+- **Latest**: `v0.22.0-nightly.20261105` (2026-10-27)
 - **Last commit**: 2026-11-04
 - **Assets in release**: 22
 
@@ -42,18 +42,18 @@ Total: **227,472** lines of code across **1703** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2132 · **Open PRs**: 36 · **Closed issues**: 617 · **Open issues**: 171 · **Commits**: 2112
+- **Releases**: 52 · **Merged PRs**: 2134 · **Open PRs**: 40 · **Closed issues**: 617 · **Open issues**: 171 · **Commits**: 2114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 15 | 282 | 23 | 55 | 70 | 281 |
-| last60d | 2026-09-05 | 15 | 297 | 24 | 57 | 73 | 310 |
-| 90d | 2026-08-06 | 15 | 355 | 25 | 65 | 78 | 375 |
-| last180d | 2026-05-08 | 22 | 569 | 29 | 88 | 102 | 594 |
-| 360d | 2025-11-09 | 22 | 614 | 31 | 88 | 102 | 636 |
-| last720d | 2024-11-14 | 31 | 911 | 36 | 174 | 112 | 935 |
+| 30d | 2026-10-06 | 15 | 284 | 27 | 54 | 70 | 283 |
+| last60d | 2026-09-06 | 15 | 296 | 27 | 55 | 72 | 312 |
+| 90d | 2026-08-07 | 15 | 355 | 29 | 65 | 78 | 377 |
+| last180d | 2026-05-09 | 22 | 571 | 33 | 88 | 102 | 596 |
+| 360d | 2025-11-10 | 22 | 615 | 35 | 88 | 102 | 638 |
+| last720d | 2024-11-15 | 31 | 909 | 40 | 173 | 112 | 935 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:52:50Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:17:06Z._
