@@ -14,11 +14,11 @@ x install conduit
 
 ## Code insight
 
-Total: **227,872** lines of code across **1705** files in the top 5 languages.
+Total: **229,945** lines of code across **1710** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 198,942 | 70,743 | 32,345 | 1414 |
+| Go | 201,015 | 71,456 | 32,586 | 1419 |
 | Json | 17,791 | 0 | 13 | 95 |
 | Yaml | 7,624 | 1,158 | 169 | 169 |
 | Sh | 1,165 | 473 | 202 | 26 |
@@ -32,7 +32,7 @@ Total: **227,872** lines of code across **1705** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.22.0-nightly.20261106` (2026-10-27)
+- **Latest**: `v0.22.0-nightly.20261107` (2026-10-27)
 - **Last commit**: 2026-11-06
 - **Assets in release**: 22
 
@@ -42,18 +42,18 @@ Total: **227,872** lines of code across **1705** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2139 · **Open PRs**: 36 · **Closed issues**: 617 · **Open issues**: 171 · **Commits**: 2119
+- **Releases**: 52 · **Merged PRs**: 2141 · **Open PRs**: 39 · **Closed issues**: 618 · **Open issues**: 170 · **Commits**: 2121
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 15 | 270 | 22 | 41 | 66 | 288 |
-| last60d | 2026-09-07 | 15 | 300 | 23 | 55 | 72 | 317 |
-| 90d | 2026-08-08 | 15 | 360 | 25 | 65 | 78 | 382 |
-| last180d | 2026-05-10 | 22 | 576 | 29 | 88 | 102 | 601 |
-| 360d | 2025-11-11 | 22 | 620 | 31 | 88 | 102 | 643 |
-| last720d | 2024-11-16 | 31 | 914 | 36 | 173 | 112 | 937 |
+| 30d | 2026-10-08 | 15 | 249 | 20 | 34 | 54 | 290 |
+| last60d | 2026-09-08 | 15 | 299 | 26 | 56 | 71 | 319 |
+| 90d | 2026-08-09 | 15 | 362 | 28 | 66 | 77 | 384 |
+| last180d | 2026-05-11 | 22 | 578 | 32 | 89 | 101 | 603 |
+| 360d | 2025-11-12 | 22 | 621 | 34 | 89 | 101 | 645 |
+| last720d | 2024-11-17 | 31 | 916 | 39 | 174 | 111 | 939 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:15:08Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:28:19Z._
