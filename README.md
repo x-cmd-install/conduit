@@ -33,7 +33,7 @@ Total: **229,945** lines of code across **1710** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.22.0-nightly.20261107` (2026-10-27)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 22
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **229,945** lines of code across **1710** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2141 · **Open PRs**: 39 · **Closed issues**: 618 · **Open issues**: 170 · **Commits**: 2121
+- **Releases**: 52 · **Merged PRs**: 2142 · **Open PRs**: 37 · **Closed issues**: 618 · **Open issues**: 170 · **Commits**: 2122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 15 | 245 | 19 | 29 | 53 | 196 |
-| last60d | 2026-09-09 | 15 | 299 | 26 | 56 | 70 | 316 |
-| 90d | 2026-08-10 | 15 | 359 | 28 | 66 | 77 | 377 |
-| last180d | 2026-05-12 | 22 | 578 | 32 | 89 | 101 | 603 |
-| 360d | 2025-11-13 | 22 | 621 | 34 | 89 | 101 | 643 |
-| last720d | 2024-11-18 | 31 | 915 | 39 | 174 | 111 | 939 |
+| 30d | 2026-10-10 | 15 | 246 | 17 | 29 | 53 | 197 |
+| last60d | 2026-09-10 | 15 | 300 | 24 | 56 | 70 | 317 |
+| 90d | 2026-08-11 | 15 | 358 | 26 | 66 | 77 | 378 |
+| last180d | 2026-05-13 | 22 | 579 | 30 | 89 | 101 | 604 |
+| 360d | 2025-11-14 | 22 | 622 | 32 | 89 | 101 | 644 |
+| last720d | 2024-11-19 | 31 | 915 | 37 | 174 | 111 | 939 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for conduit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:31:54Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:59:44Z._
