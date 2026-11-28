@@ -1,0 +1,201 @@
+about:
+  description: "Conduit streams data between data stores. Kafka Connect replacement. No JVM required."
+  license: Apache-2.0
+  homepage: https://conduit.io
+  head: 10d628a
+  archived: false
+  latestVersion: "v0.23.0-nightly.20261128"
+  latestRelease: "v0.20.7"
+  latestPrerelease: "v0.23.0-nightly.20261128"
+  collectedAt: 2026-11-28T09:00:47Z
+timeline:
+  created: 2022-01-11
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-11-28
+popularity:
+  star: 617
+  watcher: 10
+  fork: 69
+  release: 54
+  contributor: 29
+  pullRequest: 2550
+  issue: 801
+language:
+  Go: 11045225
+  Shell: 94752
+  Go Template: 47787
+  Java: 26155
+  JavaScript: 17637
+  Makefile: 16633
+  Python: 7261
+  HCL: 7251
+  Dockerfile: 5690
+  PLpgSQL: 4626
+  HTML: 3449
+  CSS: 202
+totalBytes: 11276668
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 8
+    mergedPR: 78
+    openPR: 9
+    closedIssue: 10
+    openIssue: 10
+    commit: 76
+  last60d:
+    since: 2026-09-29
+    release: 17
+    mergedPR: 349
+    openPR: 26
+    closedIssue: 86
+    openIssue: 52
+    commit: 362
+  last90d:
+    since: 2026-08-30
+    release: 17
+    mergedPR: 375
+    openPR: 27
+    closedIssue: 88
+    openIssue: 55
+    commit: 388
+  last180d:
+    since: 2026-06-01
+    release: 24
+    mergedPR: 636
+    openPR: 31
+    closedIssue: 119
+    openIssue: 84
+    commit: 654
+  last360d:
+    since: 2025-12-03
+    release: 24
+    mergedPR: 673
+    openPR: 32
+    closedIssue: 119
+    openIssue: 84
+    commit: 690
+  last720d:
+    since: 2024-12-08
+    release: 32
+    mergedPR: 960
+    openPR: 36
+    closedIssue: 200
+    openIssue: 94
+    commit: 976
+total:
+  release: 54
+  mergedPR: 2199
+  openPR: 36
+  closedIssue: 648
+  openIssue: 153
+  commit: 2172
+---
+path: /home/runner/.x-repo/github.com/ConduitIO/conduit
+collectedAt: 2026-11-28T09:00:54Z
+loc:
+  Go:
+    code: 216159
+    comments: 75546
+    blanks: 33978
+    files: 1490
+  Json:
+    code: 184478
+    comments: 0
+    blanks: 13
+    files: 152
+  Yaml:
+    code: 8061
+    comments: 1212
+    blanks: 175
+    files: 183
+  Sh:
+    code: 1416
+    comments: 532
+    blanks: 223
+    files: 27
+  Protobuf:
+    code: 990
+    comments: 225
+    blanks: 112
+    files: 1
+  Java:
+    code: 544
+    comments: 72
+    blanks: 37
+    files: 2
+  JavaScript:
+    code: 403
+    comments: 86
+    blanks: 33
+    files: 9
+  Makefile:
+    code: 267
+    comments: 122
+    blanks: 58
+    files: 5
+  Sql:
+    code: 251
+    comments: 86
+    blanks: 45
+    files: 5
+  Hcl:
+    code: 198
+    comments: 29
+    blanks: 35
+    files: 4
+  Python:
+    code: 159
+    comments: 1
+    blanks: 25
+    files: 3
+  Dockerfile:
+    code: 52
+    comments: 50
+    blanks: 9
+    files: 3
+  Html:
+    code: 40
+    comments: 1
+    blanks: 1
+    files: 3
+  Toml:
+    code: 20
+    comments: 5
+    blanks: 3
+    files: 1
+  Css:
+    code: 16
+    comments: 1
+    blanks: 3
+    files: 3
+  Svg:
+    code: 12
+    comments: 1
+    blanks: 1
+    files: 3
+  Bash:
+    code: 3
+    comments: 8
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 47860
+    blanks: 9842
+    files: 250
+  Text:
+    code: 0
+    comments: 58733
+    blanks: 16563
+    files: 953
+total:
+  code: 414656
+  comments: 184742
+  blanks: 61255
+  files: 3098
+---
+
+---

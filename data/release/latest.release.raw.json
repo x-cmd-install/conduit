@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 25740027,
       "digest": "sha256:73db4ebd97e132953492404d57c76a9b62f8f978d61d26e437a8b653ed1bdf6c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-25T22:22:08Z",
       "updated_at": "2026-11-25T22:22:11Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.22.0/conduit_0.22.0_Windows_arm64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 28577094,
       "digest": "sha256:eac39ab524c479f97de8b6d9be0a7d4d5c2e2f919070c1f6c28217e953ae2a64",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-25T22:22:05Z",
       "updated_at": "2026-11-25T22:22:08Z",
       "browser_download_url": "https://github.com/ConduitIO/conduit/releases/download/v0.22.0/conduit_0.22.0_Windows_x86_64.zip"
